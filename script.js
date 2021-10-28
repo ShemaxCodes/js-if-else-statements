@@ -8,3 +8,13 @@ if (isOldEnough) {
 else {
     console.log("Sorry, you can't drive 😒")
 }
+
+/* If/Else Code Structure
+
+if(){
+
+} else {
+
+}
+*/
+
