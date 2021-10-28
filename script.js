@@ -10,11 +10,12 @@ else {
 }
 
 /* If/Else Code Structure
+// the condition needs to return true or false
 
-if(){
-
+if(condition){
+    then do this
 } else {
-
+    do this
 }
 */
 
